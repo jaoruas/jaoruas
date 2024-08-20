@@ -1,6 +1,6 @@
-### Boas vindas ao meu perfil :sad:
+### Boas vindas ao meu perfil 🐱‍👤
 
-Meu nome é Marcelo Paludetto
+Meu nome é John Street Productions
 
 - Estou estudando na [Alura](https://www.alura.com.br)
 - Estou me desenvolvendo na linguagem JavaScript
