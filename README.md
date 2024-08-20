@@ -1,4 +1,4 @@
-### Boas vindas ao meu perfil :blue_heart
+### Boas vindas ao meu perfil :sad:
 
 Meu nome é Marcelo Paludetto
 
